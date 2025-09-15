@@ -1,0 +1,9 @@
+services:
+    python:
+        container_name: ffbe_mania_python
+        build: ./docker
+        ports: ["1080:9050"]
+        stdin_open: true 
+        tty: true 
+        volumes:
+            - ./bot:/app

@@ -1,0 +1,987 @@
+{
+    "sgGachaSelectPrismExe": {
+        "url": "pXAIaMKW",
+        "id": "bgast6dR",
+        "key": "7mDIdVEI"
+    },
+    "PurchaseSettlement": {
+        "url": "yt82BRwk",
+        "id": "JsFd4b7j",
+        "key": "jmh7xID8"
+    },
+    "RbMatching": {
+        "url": "mn5cHaJ0",
+        "id": "DgG4Cy0F",
+        "key": "4GSMn0qb"
+    },
+    "RmDungeonStart": {
+        "url": "NC8Ie07P",
+        "id": "R5mWbQ3M",
+        "key": "A7V1zkyc"
+    },
+    "RmEnd": {
+        "url": "I9p3n48A",
+        "id": "fyp10Rrc",
+        "key": "FX5L3Sfv"
+    },
+    "FacebookRewardClaim": {
+        "url": "47R9pLGq",
+        "id": "47R9pLGq",
+        "key": "Rja82ZUK"
+    },
+    "FriendDelete": {
+        "url": "8R4fQbYh",
+        "id": "a2d6omAy",
+        "key": "d0VP5ia6"
+    },
+    "UpdateSwitchInfo": {
+        "url": "SqoB3a1T",
+        "id": "mRPo5n2j",
+        "key": "4Z5UNaIW"
+    },
+    "VariableStoreCheck": {
+        "url": "Nhn93ukW",
+        "id": "i0woEP4B",
+        "key": "Hi0FJU3c"
+    },
+    "CraftStart": {
+        "url": "w71MZ0Gg",
+        "id": "Gr9zxXk5",
+        "key": "K92H8wkY"
+    },
+    "TowerEnd": {
+        "url": "TZXbYd9b",
+        "id": "fBN47X2b",
+        "key": "kzFy73L9"
+    },
+    "SearchGetItemInfo": {
+        "url": "e4Gjkf0x",
+        "id": "0D9mpGUR",
+        "key": "vK2V8mZM"
+    },
+    "SublimationSkill": {
+        "url": "xG3jBbw5",
+        "id": "s48Qzvhd",
+        "key": "97Uvrdz3"
+    },
+    "TownIn": {
+        "url": "isHfQm09",
+        "id": "8EYGrg76",
+        "key": "JI8zU5rC"
+    },
+    "MissionBreak": {
+        "url": "P4oIeVf0",
+        "id": "17LFJD0b",
+        "key": "Z2oPiE6p"
+    },
+    "BeastMix": {
+        "url": "7vHqNPF0",
+        "id": "C8X1KUpV",
+        "key": "WfNSmy98"
+    },
+    "LoginBonus": {
+        "url": "iP9ogKy6",
+        "id": "vw9RP3i4",
+        "key": "Vi6vd9zG"
+    },
+    "RbEntry": {
+        "url": "30inL7I6",
+        "id": "f8kXGWy0",
+        "key": "EA5amS29"
+    },
+    "AllianceEntry": {
+        "url": "EzfT0wX6",
+        "id": "HtR8XF4e",
+        "key": "zS4tPgi7"
+    },
+    "sgGachaRerollExe": {
+        "url": "QQVXslxB",
+        "id": "Dll4rncD",
+        "key": "KJ13DlZz"
+    },
+    "DmgRankEnd": {
+        "url": "zd5KJ3jn",
+        "id": "s98cw1WA",
+        "key": "7pGj8hSW"
+    },
+    "GameSetting": {
+        "url": "OTX6Fmvu",
+        "id": "OTX6Fmvu",
+        "key": "4foXVwWd"
+    },
+    "GetUserInfoBis": {
+        "url": "7KZ4Wvuw",
+        "id": "2eK5Vkr8",
+        "key": "7VNRi6Dk"
+    },
+    "GetUserInfo": {
+        "url": "u7sHDCg4",
+        "id": "X07iYtp5",
+        "key": "rcsq2eG7"
+    },
+    "GetUserInfo3": {
+        "url": "lZXr14iy",
+        "id": "4rjw5pnv",
+        "key": "0Dn4hbWC"
+    },
+    "NoticeUpdate": {
+        "url": "TqtzK84R",
+        "id": "CQ4jTm2F",
+        "key": "9t68YyjT"
+    },
+    "sgExpdAccelerate": {
+        "url": "Ik142Ff6",
+        "id": "Ik142Ff6",
+        "key": "d3D4l8b4"
+    },
+    "TownOut": {
+        "url": "0EF3JPjL",
+        "id": "sJcMPy04",
+        "key": "Kc2PXd9D"
+    },
+    "BeastBoardPieceOpen": {
+        "url": "Y2Zvnad9",
+        "id": "0gk3Tfbz",
+        "key": "7uxYTm3k"
+    },
+    "RbStart": {
+        "url": "dR20sWwE",
+        "id": "eHY7X8Nn",
+        "key": "P1w8BKLI"
+    },
+    "NoticeReadUpdate": {
+        "url": "j6kSWR3q",
+        "id": "pC3a2JWU",
+        "key": "iLdaq6j2"
+    },
+    "MissionWaveStart": {
+        "url": "Mn15zmDZ",
+        "id": "BSq28mwY",
+        "key": "d2mqJ6pT"
+    },
+    "PlaybackMissionStart": {
+        "url": "zm2ip59f",
+        "id": "1YnQM4iB",
+        "key": "YC20v1Uj"
+    },
+    "DmgRankStart": {
+        "url": "j37Vk5xe",
+        "id": "5P6ULvjg",
+        "key": "1d5AP9p6"
+    },
+    "RoutineGachaUpdate": {
+        "url": "qS0YW57G",
+        "id": "t60dQP49",
+        "key": "Q6ZGJj0h"
+    },
+    "ExchangeShop": {
+        "url": "1bf0HF4w",
+        "id": "I7fmVX3R",
+        "key": "qoRP87Fw"
+    },
+    "RbReStart": {
+        "url": "DQ49vsGL",
+        "id": "6ZNY3zAm",
+        "key": "PRzAL3V2"
+    },
+    "GiftUpdate": {
+        "url": "noN8I0UK",
+        "id": "9KN5rcwj",
+        "key": "xLEtf78b"
+    },
+    "slotgameSgSlotLot": {
+        "url": "action",
+        "id": "DW2yAFjB",
+        "key": "vyLhq43j"
+    },
+    "MyCardInitialize": {
+        "url": "d6f9LSI7",
+        "id": "BruItbuW",
+        "key": "q54ajlRb"
+    },
+    "ExploreStart": {
+        "url": "0PIk8qdm",
+        "id": "FR4ISN7P",
+        "key": "0Xpfxg7U"
+    },
+    "RoutineWorldUpdate": {
+        "url": "oR1psQ5B",
+        "id": "6H1R9WID",
+        "key": "XDIL4E7j"
+    },
+    "PlayerEmblemSetting": {
+        "url": "cswGxj8F",
+        "id": "19YwqU2T",
+        "key": "76kGLIgN"
+    },
+    "UnitSell": {
+        "url": "0qmzs2gA",
+        "id": "9itzg1jc",
+        "key": "DJ43wmds"
+    },
+    "StrongBoxOpen": {
+        "url": "48ktHf13",
+        "id": "PIv7u8jU",
+        "key": "sgc30nRh"
+    },
+    "GachaBoxNext": {
+        "url": "tULiKh5j",
+        "id": "xa9uR3pI",
+        "key": "U2Lm8vcS"
+    },
+    "GetReinforcementInfo": {
+        "url": "hXMoLwgE",
+        "id": "AJhnI37s",
+        "key": "87khNMou"
+    },
+    "PlayerEmblemEntry": {
+        "url": "huKNdci6",
+        "id": "Z7J9H6TK",
+        "key": "F7A2MJoE"
+    },
+    "CreateUser": {
+        "url": "0FK8NJRX",
+        "id": "P6pTz4WA",
+        "key": "73BUnZEr"
+    },
+    "ClsmStart": {
+        "url": "rncR9js8",
+        "id": "4uCSA3ko",
+        "key": "wdSs23yW"
+    },
+    "ShopExchangeUnit": {
+        "url": "lnXYChmF",
+        "id": "Vgi7j68T",
+        "key": "x6rSuK0J"
+    },
+    "GachaExe": {
+        "url": "oC30VTFp",
+        "id": "9fVIioy1",
+        "key": "oaEJ9y1Z"
+    },
+    "sgExpdQuestStart": {
+        "url": "I8uq68c3",
+        "id": "I8uq68c3",
+        "key": "60Os29Mg"
+    },
+    "GetBackgroundDownloadInfo": {
+        "url": "action",
+        "id": "lEHBdOEf",
+        "key": "Z1krd75o"
+    },
+    "CraftExe": {
+        "url": "UyHLjV60",
+        "id": "PKDhIN34",
+        "key": "ZbHEB15J"
+    },
+    "MissionSwitchUpdate": {
+        "url": "1Xz8kJLr",
+        "id": "Tvq54dx6",
+        "key": "bZezA63a"
+    },
+    "OptionUpdate": {
+        "url": "0Xh2ri5E",
+        "id": "otgXV79T",
+        "key": "B9mAa7rp"
+    },
+    "RoutineRaidMenuUpdate": {
+        "url": "Sv85kcPQ",
+        "id": "g0BjrU5D",
+        "key": "z80swWd9"
+    },
+    "UnitSublimation": {
+        "url": "PiQObNT2",
+        "id": "a54L9CKY",
+        "key": "B7iQjmz5"
+    },
+    "PurchaseHold": {
+        "url": "dCxtMZ27",
+        "id": "79EVRjeM",
+        "key": "5Mwfq90Z"
+    },
+    "UnitExClassUp": {
+        "url": "P19pJnPf",
+        "id": "k6NI9Tm1",
+        "key": "3xNEuAJ0"
+    },
+    "RmRetire": {
+        "url": "fBn58ApV",
+        "id": "e0R3iDm1",
+        "key": "T4Undsr6"
+    },
+    "FriendList": {
+        "url": "p3hwqW5U",
+        "id": "u7Id4bMg",
+        "key": "1iV2oN9r"
+    },
+    "MailList": {
+        "url": "u3E8hpad",
+        "id": "KQHpi0D7",
+        "key": "7kgsrGQ1"
+    },
+    "FriendRefuse": {
+        "url": "Vw0a4I3i",
+        "id": "1nbWRV9w",
+        "key": "RYdX9h2A"
+    },
+    "RmRestart": {
+        "url": "NC8Ie07P",
+        "id": "yh21MTaG",
+        "key": "R1VjnNx0"
+    },
+    "MissionEnd": {
+        "url": "0ydjM5sU",
+        "id": "x5Unqg2d",
+        "key": "1tg0Lsqj"
+    },
+    "UpdateUserInfo": {
+        "url": "v3RD1CUB",
+        "id": "ey8mupb4",
+        "key": "6v5ykfpr"
+    },
+    "MissionContinueRetire": {
+        "url": "cQU1D9Nx",
+        "id": "V3CiWT0r",
+        "key": "F1QRxT5m"
+    },
+    "RmStart": {
+        "url": "8BJSL7g0",
+        "id": "7FyJS3Zn",
+        "key": "iu67waph"
+    },
+    "FriendSuggest": {
+        "url": "6TCn0BFh",
+        "id": "iAs67PhJ",
+        "key": "j2P3uqRC"
+    },
+    "MissionUpdate": {
+        "url": "fRDUy3E2",
+        "id": "j5JHKq6S",
+        "key": "Nq9uKGP7"
+    },
+    "EquipGrowEntry": {
+        "url": "UiSOVXT2",
+        "id": "U8F0Q25i",
+        "key": "6fTy3HRM"
+    },
+    "sgExpdQuestRefresh": {
+        "url": "vTgYyHM6lC",
+        "id": "vTgYyHM6lC",
+        "key": "vceNlSf3gn"
+    },
+    "ExploreSetting": {
+        "url": "O4JRsPZU",
+        "id": "f8Q0BJVX",
+        "key": "i6M7o0cg"
+    },
+    "LibraryVisionCardEntry": {
+        "url": "lIUfgWYj",
+        "id": "Lx8F2iU0",
+        "key": "63ucryZ7"
+    },
+    "GachaPanelNext": {
+        "url": "7WGJtJwo",
+        "id": "32YLaEmn",
+        "key": "qbHn0E2L"
+    },
+    "ClsmEnd": {
+        "url": "7vHqNPF0",
+        "id": "3zgbapQ7",
+        "key": "6aBHXGv4"
+    },
+    "IsNeedValidate": {
+        "url": "gk3Wtr8A",
+        "id": "er5xMIj6",
+        "key": "djhiU6x8"
+    },
+    "DungeonLiberation": {
+        "url": "0vc6irBY",
+        "id": "nQMb2L4h",
+        "key": "0xDA4Cr9"
+    },
+    "sgMissionUnlock": {
+        "url": "LJhqu0x6",
+        "id": "LJhqu0x6",
+        "key": "ZcBV06K4"
+    },
+    "DailyQuestUpdate": {
+        "url": "QWDn5epF",
+        "id": "6QYd5Hym",
+        "key": "9QtGVCWg"
+    },
+    "ResourceAllDownload": {
+        "url": "Vtx9kFg0",
+        "id": "i0d5n1Dp",
+        "key": "fL07ojUc"
+    },
+    "ItemBuy": {
+        "url": "oQrAys71",
+        "id": "sxK2HG6T",
+        "key": "InN5PUR0"
+    },
+    "FacebookLogout": {
+        "url": "xHTo4BZp",
+        "id": "xHTo4BZp",
+        "key": "wwHxtAy6"
+    },
+    "DailyQuestClaimReward": {
+        "url": "Br9PwJ6A",
+        "id": "Zy8fYJ5e",
+        "key": "jwYGF3sY"
+    },
+    "RmEntry": {
+        "url": "fBn58ApV",
+        "id": "wx5sg9ye",
+        "key": "p2tqP7Ng"
+    },
+    "ParadeMissionEnd": {
+        "url": "hC8r9p81",
+        "id": "4cACW7y3",
+        "key": "Pv08w12y"
+    },
+    "sgComebackQuestClaimReward": {
+        "url": "I7RzrQ3J",
+        "id": "1IOdaWOW",
+        "key": "4NO3PIyU"
+    },
+    "ItemCarryEdit": {
+        "url": "8BE6tJbf",
+        "id": "UM7hA0Zd",
+        "key": "04opy1kf"
+    },
+    "GachaEntry": {
+        "url": "tUJxSQz7",
+        "id": "rj6dxU9w",
+        "key": "39cFjtId"
+    },
+    "SignInCheck": {
+        "url": "Qfpa24mZ",
+        "id": "ufKRrNc7",
+        "key": "F83wNKFt"
+    },
+    "TransferCodeCheck": {
+        "url": "C9LoeYJ8",
+        "id": "CY89mIdz",
+        "key": "c5aNjK9J"
+    },
+    "sgHiddenSkill": {
+        "id": "qxUUaS8s",
+        "url": "qxUUaS8s",
+        "key": "rXDvnsv8"
+    },
+    "CraftEnd": {
+        "url": "9G7Vc8Ny",
+        "id": "WIuvh09n",
+        "key": "yD97t8kB"
+    },
+    "AllianceDeckEdit": {
+        "url": "7gAGFC4I",
+        "id": "P76LYXow",
+        "key": "2E3UinsJ"
+    },
+    "RoutineEventUpdate": {
+        "url": "WCK5tvr0",
+        "id": "4kA1Ne05",
+        "key": "V0TGwId5"
+    },
+    "sgUserExtraChallengeInfo": {
+        "url": "zgry2aNV",
+        "id": "dzU2t3HA",
+        "key": "Qu6RHqbb"
+    },
+    "MissionRetire": {
+        "url": "gbZ64SQ2",
+        "id": "v51PM7wj",
+        "key": "oUh1grm8"
+    },
+    "FriendAgree": {
+        "url": "1DYp5Nqm",
+        "id": "kx13SLUY",
+        "key": "9FjK0zM3"
+    },
+    "BundlePurchase": {
+        "url": "tPc64qmn",
+        "id": "w6Z9a6tD",
+        "key": "NE3Pp4K8"
+    },
+    "EquipItemFavorite": {
+        "url": "fZ4jONfh",
+        "id": "cVRHU84e",
+        "key": "dRBYF8Q0"
+    },
+    "VisionCardClassUp": {
+        "url": "8z4Z0DUY",
+        "id": "zf49XKg8",
+        "key": "L2sTK0GM"
+    },
+    "sgExpdMileStoneClaim": {
+        "url": "r4A791RF",
+        "id": "r4A791RF",
+        "key": "t04N07LQ"
+    },
+    "VisionCardMix": {
+        "url": "aeBv64rU",
+        "id": "5J14x3Qz",
+        "key": "NVMk7Qr1"
+    },
+    "ClsmEntry": {
+        "url": "UmLwv56W",
+        "id": "5g0vWZFq",
+        "key": "8bmHF3Cz"
+    },
+    "MissionReStart": {
+        "url": "r5vfM1Y3",
+        "id": "GfI4LaU3",
+        "key": "Vw6bP0rN"
+    },
+    "TransferCodeIssue": {
+        "url": "hF0yCKc1",
+        "id": "crzI2bA5",
+        "key": "T0y6ij47"
+    },
+    "RoutineHomeUpdate": {
+        "url": "1YWTzU9h",
+        "id": "Daud71Hn",
+        "key": "aw0syG7H"
+    },
+    "TowerRetire": {
+        "url": "sn4mo4gN",
+        "id": "MTuX7ai2",
+        "key": "5dqrT8Mi"
+    },
+    "ClsmLottery": {
+        "url": "4uj3NhUQ",
+        "id": "Un16HuNI",
+        "key": "pU62SkhJ"
+    },
+    "SignIn": {
+        "url": "8DRAiBXE",
+        "id": "FckReppg",
+        "key": "g8iv4P8I"
+    },
+    "EquipGrowAbilityFix": {
+        "url": "CnPyXkUV",
+        "id": "k8ew94DN",
+        "key": "58dS0DZN"
+    },
+    "MissionStart": {
+        "url": "63VqtzbQ",
+        "id": "29JRaDbd",
+        "key": "i48eAVL6"
+    },
+    "DungeonResourceLoadMstList": {
+        "url": "Sl8UgmP4",
+        "id": "jnw49dUq",
+        "key": "3PVu6ReZ"
+    },
+    "sgExpdQuestInfo": {
+        "url": "hW0804Q9",
+        "id": "hW0804Q9",
+        "key": "4Bn7d973"
+    },
+    "FacebookAddFriend": {
+        "url": "NAW9vJnm",
+        "id": "NAW9vJnm",
+        "key": "532vAYUy"
+    },
+    "PurchaseGiveUp": {
+        "url": "C2w0f3go",
+        "id": "BFf1nwh6",
+        "key": "xoZ62QWy"
+    },
+    "RateAppReward": {
+        "url": "L0OsxMaT",
+        "id": "L0OsxMaT",
+        "key": "m1pPBwC3"
+    },
+    "UnitFavorite": {
+        "url": "sqeRg12M",
+        "id": "tBDi10Ay",
+        "key": "w9mWkGX0"
+    },
+    "BundleStatus": {
+        "url": "tPc64qmn",
+        "id": "uLXAMvCT",
+        "key": "PrSPuc8c"
+    },
+    "UltimaniaCodeIssue": {
+        "url": "2D3yLWcW",
+        "id": "D1gXmV3L",
+        "key": "4ouG6AjK"
+    },
+    "Initialize": {
+        "url": "fSG1eXI9",
+        "id": "75fYdNxq",
+        "key": "rVG09Xnt"
+    },
+    "FriendFavorite": {
+        "url": "8IYSJ5H1",
+        "id": "1oE3Fwn4",
+        "key": "3EBXbj1d"
+    },
+    "RbRanking": {
+        "url": "3fd8y7W1",
+        "id": "kcW85SfU",
+        "key": "SR6PoLM3"
+    },
+    "DailyDungeonSelect": {
+        "url": "9LgmdR0v",
+        "id": "JyfxY2e0",
+        "key": "ioC6zqG1"
+    },
+    "NvSacrifice": {
+        "url": "VliYfNhr",
+        "id": "x94MnujU",
+        "key": "KXcC8A1o"
+    },
+    "PurchaseList": {
+        "url": "YqZ6Qc1z",
+        "id": "BT28S96F",
+        "key": "X3Csghu0"
+    },
+    "TowerRestart": {
+        "url": "iqxK7alu",
+        "id": "9Z3jCWfF",
+        "key": "04HMuYV1"
+    },
+    "DailyQuestClaimAllReward": {
+        "url": "Br9PwJ6A",
+        "id": "DCmya9WD",
+        "key": "KHx6JdrT"
+    },
+    "GooglePromotionReward": {
+        "url": "jSxaKcr0",
+        "id": "6PDhpa5T",
+        "key": "F7AMb1u2"
+    },
+    "GrandMissionEntry": {
+        "url": "8DermCsY",
+        "id": "MTf2j9aK",
+        "key": "Uey5jW2G"
+    },
+    "EquipGrowAbilitySelectResume": {
+        "url": "Ke7YG3xW",
+        "id": "80R6BXUw",
+        "key": "7YxgkK1V"
+    },
+    "PartyRegisterSlotUpdate": {
+        "url": "HgSTAzd2",
+        "id": "RQ5BjDE0",
+        "key": "CpZH8rY0"
+    },
+    "ArchiveUpdate": {
+        "url": "2bCcKx0D",
+        "id": "cVTxW0K3",
+        "key": "IFLW9H4M"
+    },
+    "ReinforcementSetting": {
+        "url": "I1g4ezbP",
+        "id": "ZSq2y7EX",
+        "key": "jUreV31B"
+    },
+    "PartyRegisterSlotLoad": {
+        "url": "2y4BVhyj",
+        "id": "Q7jV6pno",
+        "key": "7zcaE16T"
+    },
+    "sgOfferwallInfo": {
+        "url": "NmNB96p8",
+        "id": "uO1w9ggv",
+        "key": "QgNR0HvE"
+    },
+    "PurchaseSetting": {
+        "url": "9hUtW0F8",
+        "id": "QkwU4aD9",
+        "key": "ePFcMX53"
+    },
+    "FacebookRewardList": {
+        "url": "8YZsGLED",
+        "id": "8YZsGLED",
+        "key": "85YBRzZg"
+    },
+    "TowerStart": {
+        "url": "1ch0bfGj",
+        "id": "dZA90j5s",
+        "key": "M3dCmDW8"
+    },
+    "SpChallengeEntry": {
+        "url": "8DermCsY",
+        "id": "MTf2j9aK",
+        "key": "Uey5jW2G"
+    },
+    "ChallengeClear": {
+        "url": "dEvLKchl",
+        "id": "D9xphQ8X",
+        "key": "UD5QCa2s"
+    },
+    "RbEnd": {
+        "url": "e8AHNiT7",
+        "id": "os4k7C0b",
+        "key": "MVA3Te2i"
+    },
+    "UnitMix": {
+        "url": "6aLHwhJ8",
+        "id": "UiSC9y8R",
+        "key": "4zCuj2hK"
+    },
+    "GachaSelectExchangeExe": {
+        "url": "ROLuCfi2",
+        "id": "W58vo4Hp",
+        "key": "98yAYp5c"
+    },
+    "GachaSelectEntry": {
+        "url": "6RI813OP",
+        "id": "6nTcSp4R",
+        "key": "uG1jRky6"
+    },
+    "slotgameSgSlotInfo": {
+        "url": "action",
+        "id": "uVswysHK",
+        "key": "gsRV5GaY"
+    },
+    "MedalExchange": {
+        "url": "0X8Fpjhb",
+        "id": "LiM9Had2",
+        "key": "dCja1E54"
+    },
+    "sgExpdRecall": {
+        "url": "0Fb87D0F",
+        "id": "0Fb87D0F",
+        "key": "9J02K0lX"
+    },
+    "Transfer": {
+        "url": "v6Jba7pX",
+        "id": "oE5fmZN9",
+        "key": "C6eHo3wU"
+    },
+    "CraftAdd": {
+        "url": "iQ7R4CFB",
+        "id": "QkN1Sp64",
+        "key": "qz0SG1Ay"
+    },
+    "GachaSelectExe": {
+        "url": "eB0VYGMt",
+        "id": "xio14KrL",
+        "key": "BuJqHc41"
+    },
+    "GachaInfo": {
+        "url": "3nhWq25K",
+        "id": "UNP1GR5n",
+        "key": "VA8QR57X"
+    },
+    "sgAdsGachaMilestone": {
+        "url": "PkSzb2TM",
+        "id": "PkSzb2TM",
+        "key": "Jp4Fz3qb"
+    },
+    "PurchaseStart": {
+        "url": "tPc64qmn",
+        "id": "qAUzP3R6",
+        "key": "9Kf4gYvm"
+    },
+    "RmDungeonEnd": {
+        "url": "CH9fWn8K",
+        "id": "WaPC2T6i",
+        "key": "dEnsQ75t"
+    },
+    "ExploreRetire": {
+        "url": "Gv0BZr4X",
+        "id": "t8Yd2Pcy",
+        "key": "3jTz0GIE"
+    },
+    "DailyQuestShare": {
+        "url": "3sTwRcpq",
+        "id": "3sTwRcpq",
+        "key": "PMyGMdUa"
+    },
+    "ExploreEntry": {
+        "url": "mr6DnTQV",
+        "id": "Tnkz60cb",
+        "key": "a4X1Q2Hm"
+    },
+    "sgHomeMarqueeInfo": {
+        "url": "PBSP9qn5",
+        "id": "PBSP9qn5",
+        "key": "d3GDS9X8"
+    },
+    "TownUpdate": {
+        "url": "0ZJzH2qY",
+        "id": "G1hQM8Dr",
+        "key": "37nH21zE"
+    },
+    "sgStoreLogReport": {
+        "url": "6611dc2f",
+        "id": "6611dc2f",
+        "key": "af7a56a0"
+    },
+    "GetTitleInfo": {
+        "url": "BbIeq31M",
+        "id": "ocP3A1FI",
+        "key": "Mw56RNZ2"
+    },
+    "PurchaseCurrentState": {
+        "url": "bAR4k7Qd",
+        "id": "9mM3eXgi",
+        "key": "X9k5vFdu"
+    },
+    "PurchaseFailed": {
+        "url": "2TCis0R6",
+        "id": "jSe80Gx7",
+        "key": "sW0vf3ZM"
+    },
+    "PurchaseCancel": {
+        "url": "y71uBCER",
+        "id": "L7K0ezU2",
+        "key": "Z1mojg9a"
+    },
+    "AllianceUndercoverStrengthen": {
+        "url": "UR1OtKJS",
+        "id": "qj63QmHE",
+        "key": "75pZA8tv"
+    },
+    "Friend": {
+        "url": "8drhF2mG",
+        "id": "j0A5vQd8",
+        "key": "6WAkj0IH"
+    },
+    "DmgRankRetire": {
+        "url": "8wdmR9yG",
+        "id": "W3Z4VF1X",
+        "key": "5fkWyeE6"
+    },
+    "UnitNvClassUp": {
+        "url": "ukNsKIEo",
+        "id": "Pf5C8xjJ",
+        "key": "2tJE0Ijo"
+    },
+    "PartyRegisterSlotSave": {
+        "url": "QjDQEMYc",
+        "id": "CE98eghN",
+        "key": "0S9Uzr42"
+    },
+    "ShopExchangeItem": {
+        "url": "qhP5wSXV",
+        "id": "xD5b6PqQ",
+        "key": "vaDW85R2"
+    },
+    "ItemSell": {
+        "url": "hQRf8D6r",
+        "id": "d9Si7TYm",
+        "key": "E8H3UerF"
+    },
+    "ExploreRewardGet": {
+        "url": "RhznNjzo",
+        "id": "XG3CwM1N",
+        "key": "LaFmew85"
+    },
+    "RbBoardPieceOpen": {
+        "url": "iXKfI4v1",
+        "id": "hqzU9Qc5",
+        "key": "g68FW4k1"
+    },
+    "ShopExchangeItemList": {
+        "url": "7KJjJiIh",
+        "id": "syKz34cE",
+        "key": "h69WSu02"
+    },
+    "FriendDetail": {
+        "url": "QBiJEyUt",
+        "id": "7kG0JAvE",
+        "key": "aKvkU6Y4"
+    },
+    "PlaybackMissionWaveStart": {
+        "url": "scyPYa81",
+        "id": "1BpXP3Fs",
+        "key": "NdkX15vE"
+    },
+    "TowerEntry": {
+        "url": "scI7HnwD",
+        "id": "VfEh2wD0",
+        "key": "L9d1gYAm"
+    },
+    "MailReceipt": {
+        "url": "M2fHBe9d",
+        "id": "XK7efER9",
+        "key": "P2YFr7N9"
+    },
+    "UnitClassUp": {
+        "url": "8z4Z0DUY",
+        "id": "zf49XKg8",
+        "key": "L2sTK0GM"
+    },
+    "SpChallengeRewardGet": {
+        "url": "9inGHyqC",
+        "id": "2G7ZVs4A",
+        "key": "mG25PIUn"
+    },
+    "PartyDeckEdit": {
+        "url": "6xkK4eDG",
+        "id": "TS5Dx9aZ",
+        "key": "34qFNPf7"
+    },
+    "FriendSearch": {
+        "url": "6Y1jM3Wp",
+        "id": "3siZRSU4",
+        "key": "VCL5oj6u"
+    },
+    "sgExpdEnd": {
+        "url": "2pe3Xa8bpG",
+        "id": "2pe3Xa8bpG",
+        "key": "cjHumZ2Jkt"
+    },
+    "ShopUse": {
+        "url": "w76ThDMm",
+        "id": "73SD2aMR",
+        "key": "ZT0Ua4wL"
+    },
+    "UnitEquip": {
+        "url": "nIk9z5pT",
+        "id": "pB3st6Tg",
+        "key": "45VZgFYv"
+    },
+    "MissionContinue": {
+        "url": "ZzCXI6E7",
+        "id": "LuCN4tU5",
+        "key": "34n2iv7z"
+    },
+    "SignOut": {
+        "url": "KwChAfkX",
+        "id": "o96pHAp3",
+        "key": "UtE1qMv3"
+    },
+    "MateriaFavorite": {
+        "url": "lW4xfpvS",
+        "id": "k5v0hMd8",
+        "key": "La3si8kz"
+    },
+    "TrophyReward": {
+        "url": "05vJDxg9",
+        "id": "wukWY4t2",
+        "key": "2o7kErn1"
+    },
+    "ParadeEntry": {
+        "url": "9i4b61rU",
+        "id": "Q46YTgWo",
+        "key": "kF7Z5vCK"
+    },
+    "MissionWaveReStart": {
+        "url": "8m7KNezI",
+        "id": "e9RP8Cto",
+        "key": "M3bYZoU5"
+    },
+    "CraftCancel": {
+        "url": "7WdDLIE4",
+        "id": "79xDN1Mw",
+        "key": "68zcUF3E"
+    },
+    "Sacrifice": {
+        "url": "QBiJEyUt",
+        "id": "7tWdn9zH",
+        "key": "U80FYThX"
+    },
+    "CampaignTieup": {
+        "url": "2u30vqfY",
+        "id": "mI0Q2YhW",
+        "key": "72d5UTNC"
+    }
+}

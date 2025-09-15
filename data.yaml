@@ -1,0 +1,12 @@
+gl:
+  base_url: https://v910-lapis.gumi.sg/lapisProd/app/php/gme/actionSymbol/
+  build_version: 1167
+  mst: 5465
+  rsc: 0
+  software_version: ver.9.1.0
+jp:
+  base_url: https://v59-ios.game.exvius.com/lapis/app/php/gme/actionSymbol/
+  build_version: 1036
+  mst: 1836
+  rsc: 1344
+  software_version: ver.4.0.1
